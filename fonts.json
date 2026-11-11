@@ -3,15 +3,15 @@
   "description": "Comfortaa font pack",
   "spec": 1,
   "main": {
-    "ggsans-Normal": "https://zvladyt.github.io/kiss-love-font/Comfortaa-Regular.ttf",
-    "ggsans-NormalItalic": "https://zvladyt.github.io/kiss-love-font/Comfortaa-Regular.ttf",
-    "ggsans-Medium": "https://zvladyt.github.io/kiss-love-font/Comfortaa-Medium.ttf",
-    "ggsans-MediumItalic": "https://zvladyt.github.io/kiss-love-font/Comfortaa-Medium.ttf",
-    "ggsans-Semibold": "https://zvladyt.github.io/kiss-love-font/Comfortaa-SemiBold.ttf",
-    "ggsans-SemiboldItalic": "https://zvladyt.github.io/kiss-love-font/Comfortaa-SemiBold.ttf",
-    "ggsans-Bold": "https://zvladyt.github.io/kiss-love-font/Comfortaa-Bold.ttf",
-    "ggsans-BoldItalic": "https://zvladyt.github.io/kiss-love-font/Comfortaa-Bold.ttf",
-    "ggsans-ExtraBold": "https://zvladyt.github.io/kiss-love-font/Comfortaa-Bold.ttf",
-    "ggsans-ExtraBoldItalic": "https://zvladyt.github.io/kiss-love-font/Comfortaa-Bold.ttf"
+    "ggsans-Normal": "https://zVladyt.github.io/kiss-love-font/Comfortaa-Regular.ttf",
+    "ggsans-NormalItalic": "https://zVladyt.github.io/kiss-love-font/Comfortaa-Regular.ttf",
+    "ggsans-Medium": "https://zVladyt.github.io/kiss-love-font/Comfortaa-Medium.ttf",
+    "ggsans-MediumItalic": "https://zVladyt.github.io/kiss-love-font/Comfortaa-Medium.ttf",
+    "ggsans-Semibold": "https://zVladyt.github.io/kiss-love-font/Comfortaa-SemiBold.ttf",
+    "ggsans-SemiboldItalic": "https://zVladyt.github.io/kiss-love-font/Comfortaa-SemiBold.ttf",
+    "ggsans-Bold": "https://zVladyt.github.io/kiss-love-font/Comfortaa-Bold.ttf",
+    "ggsans-BoldItalic": "https://zVladyt.github.io/kiss-love-font/Comfortaa-Bold.ttf",
+    "ggsans-ExtraBold": "https://zVladyt.github.io/kiss-love-font/Comfortaa-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://zVladyt.github.io/kiss-love-font/Comfortaa-Bold.ttf"
   }
 }
