@@ -295,6 +295,30 @@
     "STATUS_DANGER": [
       "#FF7B93",
       "#C2253F"
+    ],
+    "CONTROL_PRIMARY_BORDER_DEFAULT": [
+      "#FFFFFF40",
+      "#2D2A3259"
+    ],
+    "CONTROL_PRIMARY_BORDER_ACTIVE": [
+      "#FFFFFF66",
+      "#2D2A3280"
+    ],
+    "CONTROL_SECONDARY_BORDER_DEFAULT": [
+      "#FFFFFF33",
+      "#2D2A3240"
+    ],
+    "REACTION_BORDER_DEFAULT": [
+      "#FFFFFF26",
+      "#2D2A3233"
+    ],
+    "STATUS_ONLINE": [
+      "#6FD0A0",
+      "#3FA877"
+    ],
+    "BACKGROUND_CODE": [
+      "#2A162199",
+      "#F1E6EACC"
     ]
   },
   "rawColors": {
@@ -318,7 +342,55 @@
     "BRAND_800": "#2E0C16",
     "BRAND_830": "#22090F",
     "BRAND_860": "#180609",
-    "BRAND_900": "#0F0306"
+    "BRAND_900": "#0F0306",
+    "BRAND_NEW_230": "#FFE8EC",
+    "BRAND_NEW_260": "#FFD3DC",
+    "BRAND_NEW_300": "#F9AEBD",
+    "BRAND_NEW_330": "#F28FA3",
+    "BRAND_NEW_360": "#EE7F96",
+    "BRAND_NEW_400": "#EB7A92",
+    "BRAND_NEW_430": "#E8738A",
+    "BRAND_NEW_460": "#E8738A",
+    "BRAND_NEW_500": "#E8738A",
+    "BRAND_NEW_530": "#D8607A",
+    "BRAND_NEW_560": "#C94F6B",
+    "BRAND_NEW_600": "#B63F5B",
+    "BRAND_NEW_630": "#A23250",
+    "BRAND_NEW_660": "#8A2842",
+    "BRAND_NEW_700": "#6E1F35",
+    "BRAND_NEW_730": "#55182A",
+    "BRAND_NEW_760": "#3F111F",
+    "BRAND_NEW_800": "#2E0C16",
+    "BRAND_NEW_830": "#22090F",
+    "BRAND_NEW_860": "#180609",
+    "BRAND_NEW_900": "#0F0306",
+    "PRIMARY_100": "#FFF7F5",
+    "PRIMARY_130": "#F7ECEE",
+    "PRIMARY_160": "#EFE2E6",
+    "PRIMARY_200": "#E3D3D9",
+    "PRIMARY_230": "#D4C1CA",
+    "PRIMARY_260": "#C4AEB9",
+    "PRIMARY_300": "#B09BA7",
+    "PRIMARY_330": "#9C8794",
+    "PRIMARY_345": "#8F7A87",
+    "PRIMARY_360": "#826D7A",
+    "PRIMARY_400": "#6F5A67",
+    "PRIMARY_430": "#5E4A57",
+    "PRIMARY_460": "#4F3C49",
+    "PRIMARY_500": "#42303D",
+    "PRIMARY_530": "#38272F",
+    "PRIMARY_560": "#32212B",
+    "PRIMARY_600": "#2E1C27",
+    "PRIMARY_630": "#2A1823",
+    "PRIMARY_645": "#27151F",
+    "PRIMARY_660": "#24131D",
+    "PRIMARY_700": "#1E0F18",
+    "PRIMARY_730": "#190C14",
+    "PRIMARY_760": "#150A11",
+    "PRIMARY_800": "#11080E",
+    "PRIMARY_830": "#0E060B",
+    "PRIMARY_860": "#0A0408",
+    "PRIMARY_900": "#070306"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/zVladyt/kiss-love-font/main/marin-bg.jpg",
