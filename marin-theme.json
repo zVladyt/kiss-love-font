@@ -33,20 +33,20 @@
       "#2A1520"
     ],
     "HEADER_SECONDARY": [
-      "#E6C7D0",
-      "#5E3E4B"
+      "#F2B5C1",
+      "#8A2842"
     ],
     "INTERACTIVE_NORMAL": [
-      "#EBCBD4",
-      "#5E3E4B"
+      "#F2A0B0",
+      "#B63F5B"
     ],
     "INTERACTIVE_HOVER": [
-      "#FFE3EA",
-      "#2A1520"
+      "#FFC4D0",
+      "#8A2842"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FFFFFF",
-      "#2A1520"
+      "#FFD9E0",
+      "#6E1F35"
     ],
     "INTERACTIVE_MUTED": [
       "#9A7886",
@@ -117,8 +117,8 @@
       "#FFFFFFB3"
     ],
     "CHANNELS_DEFAULT": [
-      "#D7B5C0",
-      "#5E3E4B"
+      "#E6B8C3",
+      "#8A2842"
     ],
     "BG_BASE_PRIMARY": [
       "#1B0F1666",
@@ -185,11 +185,11 @@
       "#B8683A"
     ],
     "MENTION_FOREGROUND": [
-      "#FFD3DC",
+      "#FFD9E0",
       "#A8324F"
     ],
     "MENTION_BACKGROUND": [
-      "#E8738A40",
+      "#E8738A47",
       "#E8738A33"
     ],
     "BG_MOD_FAINT": [
@@ -289,8 +289,8 @@
       "#B63F5B"
     ],
     "CHANNEL_ICON": [
-      "#EBCBD4",
-      "#5E3E4B"
+      "#F2A0B0",
+      "#B63F5B"
     ],
     "STATUS_DANGER": [
       "#FF7B93",
@@ -322,7 +322,7 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/zVladyt/kiss-love-font/main/marin-bg.jpg",
-    "blur": 0,
+    "blur": 3,
     "alpha": 1
   }
 }
