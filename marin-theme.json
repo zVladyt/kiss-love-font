@@ -79,7 +79,7 @@
     "BRAND_900": "#0F0306"
   },
   "background": {
-    "url": "https://zvladyt.github.io/kiss-love-font/marin-bg.jpg",
+    "url": "https://raw.githubusercontent.com/zVladyt/kiss-love-font/main/marin-bg.jpg",
     "blur": 0,
     "alpha": 1
   }
